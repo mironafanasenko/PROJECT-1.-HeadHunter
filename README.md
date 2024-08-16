@@ -9,6 +9,8 @@
 </table>
 ## Описание проекта
 На основе базы резюме, выгруженной с сайта поиска вакансий HH.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
+ССЫЛКА НА ДАТАСЕТ: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+CСЫЛКА НА ДАТАСЕТ С КУРСОМ ВАЛЮТ: https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip
 
 <br>
 
