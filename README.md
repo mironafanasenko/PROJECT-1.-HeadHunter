@@ -9,21 +9,19 @@
 </table>
 
 ## Оглавление
-[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Описание-проекта)
+[1. Описание проекта]
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Какой-кейс-решаем)
+[2. Какой кейс решаем?]
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Краткая-информация-о-данных)
+[3. Краткая информация о данных]
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом]
 
-[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Результаты)
+[5. Результаты]
 
-  >Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-1/Project-1.ipynb)
+[6. Выводы]
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Выводы)  
-
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-1#Фидбэк-от-ментора)
+[7. Фидбэк от ментора]
 
 <br>
 
